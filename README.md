@@ -1,4 +1,4 @@
-Video do aplicativo funcionando: https://youtu.be/xyAFTtLn1Ks
+
 
 Para executar o aplicativo necessário instalar bibliotecas Python e executar o programa como adminstrador
 
